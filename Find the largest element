@@ -1,0 +1,5 @@
+let numbers = [10, 25, 8, 40, 15]
+
+if let largest = numbers.max() {
+    print("Largest number = \(largest)")
+}
